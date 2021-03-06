@@ -1,6 +1,6 @@
 # Title: teamriverbubbles/hosts
 #
-# Number of unique domains: 1
+# Number of unique domains: 5
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/teamriverbubbles/hosts/main/hosts
 # Project home page: https://github.com/teamriverbubbles/hosts
@@ -26,3 +26,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 toutsurimmo.live
 0.0.0.0 donechic.net
 0.0.0.0 layvariou.com
+0.0.0.0 racksmost.com
+0.0.0.0 manyturn.com
+0.0.0.0 packingnull.com
+0.0.0.0 jadebored.com
