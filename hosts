@@ -2,8 +2,8 @@
 #
 # Number of unique domains: 1
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
+# Fetch the latest version of this file: https://raw.githubusercontent.com/teamriverbubbles/hosts/main/hosts
+# Project home page: https://github.com/teamriverbubbles/hosts
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -21,3 +21,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 #end
+
+0.0.0.0 toutsurimmo.online
